@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "784971571486",
+    "project_id": "solarpaneladmin-e74dd",
+    "storage_bucket": "solarpaneladmin-e74dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784971571486:android:c5320988e72c2af4b7e90f",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUgq2pqQKlTT0THOlaGIyyc4fbVaZr4PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784971571486:android:b15a451ce02dbfd3b7e90f",
+        "android_client_info": {
+          "package_name": "com.example.ayesha_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUgq2pqQKlTT0THOlaGIyyc4fbVaZr4PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
